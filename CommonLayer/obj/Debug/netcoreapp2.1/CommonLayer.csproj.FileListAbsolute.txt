@@ -1,0 +1,15 @@
+C:\Users\NK\source\repos\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+C:\Users\NK\source\repos\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\NK\source\repos\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\NK\source\repos\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\NK\source\repos\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+C:\Users\NK\source\repos\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\NK\source\repos\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\NK\source\repos\EmployeeManagementAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb
